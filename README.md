@@ -14,18 +14,18 @@
 ![Login-Form](https://github.com/Mithunragu/Aerele-Project/assets/135326912/3462b0d6-522e-495f-b781-a6d38a5f91a2)
 
 ## Layout 3 : Librarian Dashboard
-### Desc : This the Dashboard where with the features Librarian can access
+### Desc : This the Dashboard where with the Features Librarian can Access
 
 ![Librarian-DashBord](https://github.com/Mithunragu/Aerele-Project/assets/135326912/304ea6a3-e23c-45b8-91c0-238ad55c7948)
 
 
 ## Layout 4 : Librarian AddMember
-### Desc : this feature to upload the data of the student to access future 
+### Desc : this Feature to Upload the data of the Student to Access Future 
 
 ![Upload-Member-Page](https://github.com/Mithunragu/Aerele-Project/assets/135326912/bbaa0fe7-1aba-4ad4-9563-d9b6d1523fa5)
 
 ## Layout 5 : Librarian ViewMember
-### Desc :A feature to view the data of the student uploaded in the system
+### Desc :A Feature to view the data of the Student Uploaded in the system
 
 ![View All Member Page](https://github.com/Mithunragu/Aerele-Project/assets/135326912/0eab6851-1ce3-4aa1-8da8-764530b6bb0a)
 
