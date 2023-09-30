@@ -16,7 +16,8 @@
 ## Layout 3 : Librarian DashBoard
 ### Desc : This the DashBoard where with the features Librarian can access
 
-![Librarian-DashBord](https://github.com/Mithunragu/Aerele-Project/assets/135326912/b176ae0c-01af-4806-9d0f-6fae1959042b)
+![Librarian-DashBord](https://github.com/Mithunragu/Aerele-Project/assets/135326912/304ea6a3-e23c-45b8-91c0-238ad55c7948)
+
 
 ## Layout 4 : Librarian AddMember
 ### Desc : this feature to upload the data of the student to access future 
