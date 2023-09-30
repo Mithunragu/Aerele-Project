@@ -1,4 +1,3 @@
-![image](https://github.com/Mithunragu/Aerele-Project/assets/135326912/40bc2e04-4bf2-4958-b4fc-0038e2028798)# Aerele-Project
 
 ## Library Management Web Application
 
