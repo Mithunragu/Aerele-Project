@@ -9,12 +9,12 @@
 ![Home-Page](https://github.com/Mithunragu/Aerele-Project/assets/135326912/74175730-baa8-4445-b4a3-577f34b5a8d6)
 
 ## Layout 2 : Librarian Login
-### Desc : This the Login from to allow to the Librarian
+### Desc : This the Login form to allow to the Librarian
 
 ![Login-Form](https://github.com/Mithunragu/Aerele-Project/assets/135326912/3462b0d6-522e-495f-b781-a6d38a5f91a2)
 
-## Layout 3 : Librarian DashBoard
-### Desc : This the DashBoard where with the features Librarian can access
+## Layout 3 : Librarian Dashboard
+### Desc : This the Dashboard where with the features Librarian can access
 
 ![Librarian-DashBord](https://github.com/Mithunragu/Aerele-Project/assets/135326912/304ea6a3-e23c-45b8-91c0-238ad55c7948)
 
