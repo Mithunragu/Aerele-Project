@@ -58,7 +58,7 @@ export function LibraryViewBook(){
                                 <td>{value.author}</td>
                                 <td>{value.quantity}</td>
                                 <td>{value.rentFee}</td>
-                                <td><Link to={`/LibraryUpdateBook/${value.bookId}`}  className='btn btn-success'>Edit</Link><Link to={`/LibraryUpdateBook/${value.bookId}`}  className='btn btn-danger m-1' >Delete</Link></td>
+                                <td><Link to={`/LibraryUpdateBook/${value.bookId}`}  className='btn btn-success'>Edit</Link><Link onClick={()=>{handledeletebook(value.bookId)}}  className='btn btn-danger m-1' >Delete</Link></td>
                             </tr>
                             </>
                             ))
